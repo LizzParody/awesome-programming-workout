@@ -1,4 +1,10 @@
 date,subject,hours,description
 2017-05-15,postgres,1,read the book
+2017-05-21,scala,1.5,Codequizzes
 2017-05-23,Scala,1,Codequizzes
+2017-05-23,Spark,2,contribution to spark-spec
+2017-05-24,JavaScript,1,Reat Eloquent JavaScript
+2017-05-24,Scala,1,Read Learning Scala book
+2017-05-24,Spark,1.5,contribution to spark-spec
+2017-05-24,Spark,0.5,contribution to spark-daria
 
