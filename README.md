@@ -2,6 +2,22 @@
 
 Training hard to live the [American Dream](https://en.wikipedia.org/wiki/American_Dream).
 
+## This Morning Routine will Save You 20+ Hours Per Week
+
+[Benjamin Hardy](https://journal.thriveglobal.com/this-morning-routine-will-save-you-20-hours-per-week-4ee620a3b135) has a fantastic blog post on how to take a results-oriented approached with 100% focus.
+
+Here are some fantastic quotes from the blog post:
+
+> If you’re like most people, your workday is a blend of low-velocity work mixed with continual distraction (e.g., social media and email).
+
+> The best time to do your best work is during the first three hours of your day.
+
+> Don’t check your social media or email until after your 3 hours of deep work. Your morning time should be spent on output, not input.
+
+> “Recovery” is the process of reducing or eliminating physical and psychological strain/stress caused by work.  One particular recovery strategy that is getting lots of attention in recent research is called “psychological detachment from work.” True psychological detachment occurs when you completely refrain from work-related activities and thoughts during non-work time.
+
+The American Dream Workout is a community of programmers that follow Benjamin Hardy's advice to deliberately practice and get better at coding.
+
 ## How to deliberately practice
 
 You can create a `YOUR-NAME_training_log.csv` file to track the hours you spend traning to be a better programmer.  Study hours need to meet the following criteria:
