@@ -1,4 +1,4 @@
-# American Dream Workout
+# Awesome Programming Workout
 
 Training hard to live the [American Dream](https://en.wikipedia.org/wiki/American_Dream).
 
