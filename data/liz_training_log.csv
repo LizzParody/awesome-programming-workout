@@ -1,40 +1,43 @@
-date,subject,hours,description
-2017-05-15,postgres,1,read the book
-2017-05-21,scala,1.5,Codequizzes
-2017-05-23,Scala,1,Codequizzes
-2017-05-23,Spark,2,contribution to spark-spec
-2017-05-24,JavaScript,1,Reat Eloquent JavaScript
-2017-05-24,Scala,1,Read Learning Scala book
-2017-05-24,Spark,1.5,contribution to spark-spec
-2017-05-24,Spark,0.5,contribution to spark-daria
-2017-05-25,Scala,1.2,Codequizzes
-2017-05-25,JavaScript,1.2,Read Eloquent JavaScript
-2017-05-25,Spark,1.5,contribution to spark-spec
-2017-05-25,Scala,1,Read Learning Scala book
-2017-05-26,JavaScript,1.8,Read Eloquent JavaScript
-2017-05-26,Scala,2,Read Learning Scala book
-2017-05-26,Spark,1,contribution to spark-daria
-2017-05-30,Bash,2,create a script in bash
-2017-05-31,JavaScript, 2,Read Eloquent JavaScript
-2017-05-31,Scala,2,Read Learning Scala book
-2017-05-31,spark,2,contribution to giter8
-2017-06-09,Spark,1.5,contribution to spark-spec
-2017-06-09,JavaScript,2,Read Eloquent JavaScript
-2017-06-10,Bash,2,created a script in bash
-2017-06-12,JavaScript,1,Study Anki cards
-2017-06-12,Spark,0.5,Created the pyspark-spec project
-2017-06-12,JavaScript,2,Read Eloquent JavaScript
-2017-06-13,JavaScript,1,Study Anki cards
-2017-06-13,Algorithms,1,Read cracking the code interview
-2017-06-13,JavaScript,2,Read Eloquent JavaScript
-2017-06-14,Spark,1.5,contribution to spark-spec
-2017-06-14,Algorithms,1.5,Study Anki cards
-2017-06-14,Git,3,Codequizzes and Youtube tutorial
-2017-06-15,Git,1,Youtube tutorial
-2017-06-15,Algorithms,2,Read cracking the code interview
-2017-06-15,JavaScript,2,Study Anki cards
+date,hours,subject,description
+2017-05-15,1,postgres,read the book
+2017-05-21,1.5,scala,Codequizzes
+2017-05-23,1,Scala,Codequizzes
+2017-05-23,2,Spark,contribution to spark-spec
+2017-05-24,1,JavaScript,Reat Eloquent JavaScript
+2017-05-24,1,Scala,Read Learning Scala book
+2017-05-24,1.5,Spark,contribution to spark-spec
+2017-05-24,0.5,Spark,contribution to spark-daria
+2017-05-25,1.2,Scala,Codequizzes
+2017-05-25,1.2,JavaScript,Read Eloquent JavaScript
+2017-05-25,1.5,Spark,contribution to spark-spec
+2017-05-25,1,Scala,Read Learning Scala book
+2017-05-26,1.8,JavaScript,Read Eloquent JavaScript
+2017-05-26,2,Scala,Read Learning Scala book
+2017-05-26,1,Spark,contribution to spark-daria
+2017-05-30,2,Bash,create a script in bash
+2017-05-31,2,JavaScript,Read Eloquent JavaScript
+2017-05-31,2,Scala,Read Learning Scala book
+2017-05-31,2,spark,contribution to giter8
+2017-06-09,1.5,Spark,contribution to spark-spec
+2017-06-09,2,JavaScript,Read Eloquent JavaScript
+2017-06-10,1,Bash,created a script in bash
+2017-06-12,1,JavaScript,Study Anki cards
+2017-06-12,0.5,Spark,Created the pyspark-spec project
+2017-06-12,2,JavaScript,Read Eloquent JavaScript
+2017-06-13,1,JavaScript,Study Anki cards
+2017-06-13,1,Algorithms,Read cracking the code interview
+2017-06-13,2,JavaScript,Read Eloquent JavaScript
+2017-06-14,1.5,Spark,contribution to spark-spec
+2017-06-14,1.5,Algorithms,Study Anki cards
+2017-06-14,3,Git,Codequizzes and Youtube tutorial
+2017-06-15,1,Git,Youtube tutorial
+2017-06-15,2,Algorithms,Read cracking the code interview
+2017-06-15,2,JavaScript,Study Anki cards
 2017-06-16,1.5,Spark,Contribute to spark-spec
 2017-06-19,1,Algorithms,Write a blog of Big O
 2017-06-19,1,JavaScript,Study Anki cards
 2017-06-19,1,Spark,Contribute to spark-spec
-
+2017-06-19,1,Algorithms,Read cracking the code interview
+2017-06-19,2,Scala,Codequizzes
+2017-06-20,1.5,JavaScript,Study Anki cards
+2017-06-20,1.5,JavaScript,Read Eloquent JavaScript
